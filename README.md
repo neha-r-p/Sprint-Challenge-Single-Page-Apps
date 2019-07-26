@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 - [ ] Explain benefit(s) using `client-side routing`?
 > Answer: A major benefit of client side routing is that it is faster because you don't always have to wait for a server to respond to a request for content. When you update the URL and content, the page doesn't reload, which also contributes to speed.
 - [ ] What does AJAX stand for?
-> Answer:
+> Answer: AJAX stand for
 - [ ] What are `controlled components` in React?
 > Answer:
 - [ ] Name three tools/libraries for making AJAX requests.
