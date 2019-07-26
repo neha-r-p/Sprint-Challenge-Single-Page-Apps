@@ -1,6 +1,7 @@
 import React from 'react'
 import { Tab, Menu, Icon } from 'semantic-ui-react'
 import { NavLink } from "react-router-dom";
+// import CharacterList from './components/CharacterList';
 
 // TODO: Add missing tabs below
 
