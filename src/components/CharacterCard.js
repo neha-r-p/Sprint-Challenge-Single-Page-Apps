@@ -7,7 +7,8 @@ export default function CharacterCard(props) {
       <img src={props.image} />
       <h2>{props.name}</h2>
       <p>{props.species} ({props.status})</p>
-      <p>{props.location.name}</p>
+      <p>Location: {props.location.name}</p>
+      <p>Origin: {props.origin.name}</p>
     </div>
   );
 }
