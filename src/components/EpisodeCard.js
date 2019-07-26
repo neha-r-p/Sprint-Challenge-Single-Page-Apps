@@ -11,7 +11,7 @@ export default function EpisodeCard({ name, air_date, episode, characters }) {
         </Card.Description>
       </Card.Content>
       <Card.Content extra>
-        <Icon name="movie" />
+        <Icon name="users" />
         {characters.length} Characters
       </Card.Content>
     </Card>
